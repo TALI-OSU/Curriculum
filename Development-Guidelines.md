@@ -66,3 +66,5 @@ a new laptop, restarting the device, etc.
 * Learn from past mistakes 
   * If something in a lesson doesn’t work out, that’s okay 
   * Learn from that and make the lesson better in the future 
+  
+ [Lesson Plan Template](https://docs.google.com/document/d/18ItBLJAAZgFsQjm5f2vuOaSbWwhWuUFrp975_SDDqjo/edit?usp=sharing)
