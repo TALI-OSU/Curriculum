@@ -21,21 +21,21 @@ abilities. Added to this, Computer Science often brings its own complicated voca
 needs of students. Some examples are defining vocabulary for students or having pictures students can refer to. 
 
 ### Lesson Plan:
-All lessons need to have some lecture and activities to help students learn and understand the material. Students will finish at a 
-variety of times and lessons should account for this. It is important to have extra or challenge activities for early finishers.  
-Lessons should also take into account that a student may not finish every activity. Order the activities in such a way that 
-students will still learn the desired objective, without finishing every activity. 
+All lessons need to have some lecture and activities to help students learn and understand the material. Students will finish at a variety of times and lessons should account for this. It is important to have extra or challenge activities for early finishers. Lessons should also take into account that a student may not finish every activity. Order the activities in such a way that students will still learn the desired objective, without finishing every activity. 
 
-When creating activities, for early finishers, it is good to have some challenging options. These activities should be more open 
-ended and creative. They should be less guided. Think of it more like, use this tool to do an activity of the student’s choosing.
+##### Early Finishers
+When creating activities, for early finishers, it is good to have some challenging options. These activities should be more open ended and creative. They should be less guided. Think of it more like, use this tool to do an activity of the student’s choosing.
 
+##### Opener
 Lessons should have an opener. The opener is a great place to engage students’ prior knowledge about lesson. Openers can be a 
 thought-provoking question, video, reading a passage, a simulation, along with many other things.
 
+##### Closer
 Lessons should also include a closing activity. This is often tied to assessment. Closure is a way to have students synthesize 
 whatthey have learned. It should always tie back to the objectives. Examples are turning to a neighbor and answering some questions 
 or exit tickets.
 
+##### Support
 Each part of the lesson should include support for students. Each classroom is going to be diverse and how students are going to 
 supported needs to be thought about as each activity is being created.
 
