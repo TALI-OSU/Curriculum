@@ -48,12 +48,10 @@
   * At the end of the lesson, students will gather one final time in a circle. This gives students a chance to discuss their favorite parts of the activity, the things they learned, and the things they found difficult. Should students have questions, this also acts as a forum for discussion.
 #### Possible Issues
   * Cozmo robots can randomly die, so make sure there are some extra robots that are ready for a quick exchange.
-  * Track is too difficult for some students.
+  * The track may be too difficult for some students.
     * Have them try driving Cozmo instead of using block programming.
     * After student makes attempt, allow them to play with some of Cozmo’s dance features. This will keep the student involved, while still engaging them in an aspect of technology.
   * There are too many students per instructor.
     * Give students the opportunity to pair program. This engages collaborative thinking and allows them to potentially solve challenges together.
-
-
 #### Image of the Board from our Lesson
 <img src="images/Board.jpg" width="300">
