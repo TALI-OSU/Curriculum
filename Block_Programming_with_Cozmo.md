@@ -54,4 +54,4 @@
   * There are too many students per instructor.
     * Give students the opportunity to pair program. This engages collaborative thinking and allows them to potentially solve challenges together.
 #### Image of the Board from our Lesson
-<img src="images/Board.jpg" width="300">
+<img src="images/Board.jpg" width="400">
