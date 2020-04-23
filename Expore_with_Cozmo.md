@@ -32,6 +32,7 @@
   * Repeat activity with the another track.
 #### Possible Issues
   * Cozmo robots can unexpectedly run out of battery, so make sure there are some extra robots that are ready for a quick exchange.
+  * If the barriers (like the rope) that form the walls of the track are not tall enough then the robots may accidently exit the course and have a difficult time getting back on.
 #### Images of Tracks from our Lesson
 <img src="images/Track1.jpg" width="300">
 <img src="images/Track2.jpg" width="300">
