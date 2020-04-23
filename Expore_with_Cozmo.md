@@ -31,7 +31,7 @@
     * Have students discuss what they learned, liked, and disliked about the course.
   * Repeat activity with the another track.
 #### Possible Issues
-  * Cozmo robots can randomly die, so make sure there are some extra robots that are ready for a quick exchange.
+  * Cozmo robots can unexpectedly run out of battery, so make sure there are some extra robots that are ready for a quick exchange.
 #### Images of Tracks from our Lesson
 <img src="images/Track1.jpg" width="300">
 <img src="images/Track2.jpg" width="300">
