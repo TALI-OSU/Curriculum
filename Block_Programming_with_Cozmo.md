@@ -1,7 +1,8 @@
 # Block Programming with Cozmo
 #### Grades: K-2nd
+#### Time for Prep:  \* See Prep below
 #### Time for Set-up: 10 mins
-#### Time for lesson: 1 hour
+#### Time for Lesson: 1 hour
 #### Learning Objectives: 
   * Students will be introduced to block programming, and become familiar with some of the rudimentary commands available to them.
   * Students will become familiar with how to move Cozmo using the tablet.
@@ -21,10 +22,12 @@
     * We used sticky velcro to secure the pieces to the board.
   * Cards to show the students what marker Cozmo should start on and which marker he should end on.
   * Obstacles to place on the game boards to provide a challenge for students while navigating the board.
-#### Set-Up:
-  * Take a large, square piece of cardboard or paper and draw small squares on the board like a grid.
+#### Prep:
+  * Ensure that Cozmo and its app are up to date (5-10 minutes per Cozmo).
+  * Take a large, square piece of cardboard or paper and draw small squares on the board like a grid (10 minutes per board).
     * The squares should be even width and height.
     * Feel free to create this on a computer and print the board if you prefer
+#### Set-Up:
   * Place start and finish cards on the board. 
     * We used cut outs of clipart.
     * The start and finish should be flat so Cozmo can move onto that piece.
