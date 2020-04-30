@@ -1,7 +1,8 @@
 # Explore with Cozmo
 #### Grades: K-2nd
+#### Time for Prep:  \* See Prep below
 #### Time for Set-up: 20 mins
-#### Time for lesson: 1 hour
+#### Time for Lesson: 1 hour
 #### Learning Objectives: 
   * Understand the basics of Cozmo and how he moves.
   * Students will become more comfortable using robots and tablet technology.
@@ -16,6 +17,9 @@
     * Pool Noodles (to create track)
     * Small Obstacles
     * Tape to secure rope and pool noodles
+    
+#### Prep:
+  * Ensure that Cozmo and its app are up to date (5-10 minutes per Cozmo).
 #### Set-Up:
   * Create one or more tracks based on the number of students.
   * The tracks can be in any configuration. They can have obstacles and can be as long as desired.
