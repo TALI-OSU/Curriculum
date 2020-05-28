@@ -18,10 +18,11 @@
   * Paper
   * White board pens (if white board available)
 #### Prep:
-  * Print handouts
-  * Optional: Create signs for the corners to play in the If Game
+  * Print [lesson handouts](handouts/calulator_with_JavaScript.pdf).
+  * Optional: Create signs for the corners to play in the If Game.
 #### Set-Up:
-  * Set up computers with a browser screen open
+  * Set up computers with a browser screen open.
+  * Place a pencil, a piece of scratch paper, and a handout next to each computer.
 #### Lesson Plan:
 ###### Opener: The If Game (whole group)
   * Similar to the game Four Corners.
@@ -43,11 +44,11 @@
      * Will allow students and parents to understand how to take in input and print to the console. 
   3. Design the calculator (whole group)
      * Walk the students through designing a problem that can be solved computationally. 
-     * Go through understanding the problem to make sure all students understand what the problem is asking before they try to solve the problem.
-     * The flowchart method can be used.
+     * Go through the "understanding the problem" step to make sure all students understand what the problem is asking before they try to solve the problem.
+     * A flowchart can be drawn to visualize the design.
      * Help students think about how the tools they learned (variables and if statements) can be used to help them create a calculator.
   4. Create the Calculator (individual parent-student activity)
-     * Use Repl.it to create the calculator in Javascript.
+     * Use [Repl.it](https://repl.it/) to create the calculator in Javascript.
      * The students and parents will implement addition, subtraction, multiplication, and division.
      * For extended learning, students can implement different equations.
      * For further learning, students can implement a ui for their calculator.
@@ -80,6 +81,5 @@
     * We check in on that student more often to make sure they are doing well.
   * Tantrum
     * Ask to take a break or a walk with them or just watch
-    * The students are mostly too young for the lesson
     * Scale back our lesson to do less. 
     * Take 5 minute breaks
