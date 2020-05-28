@@ -2,7 +2,7 @@
 #### Grades: 6-8th
 #### Time for Prep:   20 mins
 #### Time for Set-up: 5 mins
-#### Time for Lesson: 2 hour
+#### Time for Lesson: 2 hours
 #### Learning Objectives: 
   * The students will understand variables and if statements in JavaScript. 
   * The students will understand how to create a basic design when given a problem to be solved by computation. 
