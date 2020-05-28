@@ -11,7 +11,7 @@
   * The students will use an if statement in their calculator program.
   * The students will create a design for their calculator program.
 #### Material Needed:
-  * Laptops or Desktop computers with internet access
+  * Laptop or desktop computers with internet access
   * Handouts for the calculator problem. See file -> [Lesson Handout](handouts/calulator_with_JavaScript.pdf)
   * A sheet of paper that will allow them to write down their design
   * Pencils
