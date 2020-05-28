@@ -12,7 +12,7 @@
   * The students will create a design for their calculator program.
 #### Material Needed:
   * Laptops or Desktop computers with internet access
-  * Handouts for the calculator problem. File: <a src="handouts/calulator_with_JavaScript.pdf">
+  * Handouts for the calculator problem. See file -> [Lesson Handout](handouts/calulator_with_JavaScript.pdf)
   * A sheet of paper that will allow them to write down their design
   * Pencils
   * Paper
@@ -35,24 +35,24 @@
     * Repeat for a couple of rounds. 
 ###### Main Activities:
   1. Explain Variables (whole group)
-    * Use a visual method (such as the bucket metaphor) to go over what a variable is and what they are used for.
-    * Different data types will also be discussed, so students understand that a variable can hold a number, string, etc.
+     * Use a visual method (such as the bucket metaphor) to go over what a variable is and what they are used for.
+     * Different data types will also be discussed, so students understand that a variable can hold a number, string, etc.
   2. If statement and variable demonstration in Javascript (whole group)
-    * Will allow students and parents to see how to create and use variables in Javascript. 
-    * Will allow students and parents to see how if statements are structured and used in Javascript.
-    * Will allow students and parents to understand how to take in input and print to the console. 
+     * Will allow students and parents to see how to create and use variables in Javascript. 
+     * Will allow students and parents to see how if statements are structured and used in Javascript.
+     * Will allow students and parents to understand how to take in input and print to the console. 
   3. Design the calculator (whole group)
-    * Walk the students through designing a problem that can be solved computationally. 
-    * Go through understanding the problem to make sure all students understand what the problem is asking before they try to solve the problem.
-    * The flowchart method can be used.
-    * Help students think about how the tools they learned (variables and if statements) can be used to help them create a calculator.
+     * Walk the students through designing a problem that can be solved computationally. 
+     * Go through understanding the problem to make sure all students understand what the problem is asking before they try to solve the problem.
+     * The flowchart method can be used.
+     * Help students think about how the tools they learned (variables and if statements) can be used to help them create a calculator.
   4. Create the Calculator (individual parent-student activity)
-    * Use Repl.it to create the calculator in Javascript.
-    * The students and parents will implement addition, subtraction, multiplication, and division.
-    * For extended learning, students can implement different equations.
-    * For further learning, students can implement a ui for their calculator.
-    * Sample full calculator (no ui): https://repl.it/@KaitlinDeeDee/JavaScript-Calculator  
-    * Sample calculator with ui: https://repl.it/@Aidenjn/calculator-UI
+     * Use Repl.it to create the calculator in Javascript.
+     * The students and parents will implement addition, subtraction, multiplication, and division.
+     * For extended learning, students can implement different equations.
+     * For further learning, students can implement a ui for their calculator.
+     * Sample full calculator (no ui): https://repl.it/@KaitlinDeeDee/JavaScript-Calculator  
+     * Sample calculator with ui: https://repl.it/@Aidenjn/calculator-UI
 
 ###### Closer: Reflection
   * Give parents and students a few questions to talk about together.
